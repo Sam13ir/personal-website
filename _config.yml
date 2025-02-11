@@ -73,6 +73,34 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png
 
 certifications:
-  - name: Foundations of Cybersecurity by Google
+  - name: Foundations of Cybersecurity
     web_url: https://www.coursera.org/account/accomplishments/verify/IHR1SBAOUL53
     image_url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/61/36584e2633455296817e987d653e8d/500x500_Google.jpg?auto=format%2Ccompress&dpr=2&w=75&h=75&fit=crop
+
+  - name: OpenCV Bootcamp
+    web_url: https://courses.opencv.org/certificates/760c79b270124779b57ff83c80743f18
+    image_url: https://courses.opencv.org/static/v1.1.5/images/logo-dark.png
+
+  - name: Machine Learning with Python
+    web_url: https://www.coursera.org/account/accomplishments/verify/6DPKCRXKQMMB
+    image_url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/c0/87a10033a311e892619b85c6fd62bb/IBM-200x48.png?auto=format%2Ccompress&dpr=2&h=45
+
+  - name: Introduction to Networking
+    web_url: https://www.coursera.org/account/accomplishments/verify/LP63LKEKYH22
+    image_url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/77/9078959db5472ab81dbd883497e987/NVIDIA-360x360.png?auto=format%2Ccompress&dpr=2&h=45
+
+  - name: The Fundamentals of RDMA Programming
+    web_url: https://www.coursera.org/account/accomplishments/verify/7VTF2G32V82F
+    image_url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/77/9078959db5472ab81dbd883497e987/NVIDIA-360x360.png?auto=format%2Ccompress&dpr=2&h=45
+
+  - name: The Cybersecurity Threat Landscape
+    web_url: https://www.linkedin.com/learning/certificates/cf4e46d16fdc527040ae590a70b3674adddfff36def7d658a62f1882df6ba615?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BUqlE3nt0TDSXWwAnYna%2FgQ%3D%3D
+    image_url: https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_100_100/company-logo_100_100/0/1638831590218/linkedin_logo?e=1747267200&v=beta&t=53ouxyynUbkFRZ6l9OQjtU88nKM7mBRtbE_VAziIk1I
+
+  - name: AI Infrastructure and Operations Fundamentals
+    web_url: https://www.coursera.org/account/accomplishments/verify/NBF8E8KJDR4K
+    image_url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/77/9078959db5472ab81dbd883497e987/NVIDIA-360x360.png?auto=format%2Ccompress&dpr=2&h=45
+
+  - name: Open Source Software Development Methods
+    web_url: https://www.coursera.org/account/accomplishments/verify/6VZNQUUJMHCF
+    image_url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/26/0f3680c5af11e8a01533ad3fa8755b/Linux-Foundation.png?auto=format%2Ccompress&dpr=2&h=45
