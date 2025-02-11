@@ -71,3 +71,8 @@ topics:
   - name: Assembly
     web_url: https://github.com/topics/assembly
     image_url: https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png
+
+certifications:
+  - name: Foundations of Cybersecurity by Google
+    web_url: https://www.coursera.org/account/accomplishments/verify/IHR1SBAOUL53
+    image_url: https://www.coursera.org/account/accomplishments/certificate/IHR1SBAOUL53
