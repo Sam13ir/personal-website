@@ -31,6 +31,7 @@ projects:
 social_media:
     linkedin: samirjarjous
     coursera: samirjarjous
+    credly: samirjarjous
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -74,6 +75,10 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png
 
 certifications:
+  - name: Process Documents with Python Using the Document AI API
+    web_url: https://www.coursera.org/account/accomplishments/verify/F6GE9LKSEAIJ
+    image_url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/74/fa9028074941789429dfc1d1b71ddf/gc-logo-360x360.png?auto=format%2Ccompress&dpr=2&w=38&h=38&fit=fill
+
   - name: Foundations of Cybersecurity
     web_url: https://www.coursera.org/account/accomplishments/verify/IHR1SBAOUL53
     image_url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-instructor-photos.s3.amazonaws.com/61/36584e2633455296817e987d653e8d/500x500_Google.jpg?auto=format%2Ccompress&dpr=2&w=75&h=75&fit=crop
